@@ -1,0 +1,9 @@
+# Unlabeled Changes
+
+* `@embroider/vite`
+  * [#2601](https://github.com/embroider-build/embroider/pull/2601) Support `content-for` with single quotes as well ([@bertdeblock](https://github.com/bertdeblock))
+* Other
+  * [#2585](https://github.com/embroider-build/embroider/pull/2585) Split windows tests ([@mansona](https://github.com/mansona))
+
+
+*Cannot plan release until the above changes are labeled*.
